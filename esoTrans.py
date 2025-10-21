@@ -41,7 +41,7 @@ swap = {
     'Tracotocutulo Lirilì Larilà' : 'if',
 
     # Loops
-    'again' : 'for',
+    'Fuck' : 'for',
     'vibin' : 'while',
     'pogContinue' : 'continue',
     'bruhStop' : 'break',
