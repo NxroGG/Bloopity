@@ -39,7 +39,7 @@ swap = {
     'seOH' : 'elif',
     'Tracotocutulo Lirilì Larilà' : 'if',
     
-    'again' : 'for',
+    'Fuck' : 'for',
     'vibin' : 'while',
     'pogContinue' : 'continue',
     'bruhStop' : 'break',
